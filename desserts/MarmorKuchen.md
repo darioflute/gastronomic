@@ -11,7 +11,7 @@ This cake is German, although my mother was used to do it in Trieste.
 - 300 g  flower
 - 3 teaspoons powder
 - 25  g  Cocoa
--        Milk
+- 75  ml Milk
 
 ## Procedure
 
