@@ -19,7 +19,6 @@ This cake is German, although my mother was used to do it in Trieste.
 1. Mix the butter and sugar to a cream.
 2. Add eggs one at the time.
 3. Add salt and flower, a bit at the time, and 50ml of milk.
-4. Put 2/3 of the dough in the pan
-5. To the remaing 1/3 add 25g cocoa and 30ml of milk.
+4. Put 2/3 of the batter in the pan
 6. Pour the remaining 1/3 on the pan. Then, with a fork, gently mix doing spirals from the bottom to the top to create a pattern of dark filaments in the final cake.
 7. Bake at 175C for approximately 55 minutes.
