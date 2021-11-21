@@ -9,7 +9,7 @@ This cake is German, although my mother was used to do it in Trieste.
 - bit of salt
 - 5      eggs
 - 300 g  flower
-- 3 teaspoons powder
+- 3 teaspoons backing powder
 - 25  g  Cocoa
 - 75  ml Milk
 
