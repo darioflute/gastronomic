@@ -16,9 +16,10 @@ This cake is German, although my mother was used to do it in Trieste.
 ## Procedure
 
 0. Prepare a cake pan by brushing melted butter on its walls and flouring them.
+![floured pan](./images/flouredPan.png)
 1. Work butter and sugar together reducing them to a cream.
 2. Add one egg at the time and mix it in.
 3. Add salt and flower, a bit at the time, and 50ml of milk to keep the batter fluid.
 4. Pour 2/3 of the batter in the pan.
-6. Add cocoa and 25mul of milk to the remaining 1/3 of the batter and mix throughly. Pour it in the pan. Then, with a fork, gently mix doing spirals from the bottom to the top to create a pattern of dark filaments in the final cake.
+6. Add cocoa and 25ml of milk to the remaining 1/3 of the batter and mix throughly. Pour it in the pan. Then, with a fork, gently mix doing spirals from the bottom to the top to create a pattern of dark filaments in the final cake.
 7. Bake at 175C for approximately 55 minutes.
