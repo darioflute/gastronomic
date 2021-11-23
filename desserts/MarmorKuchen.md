@@ -15,8 +15,9 @@ This cake is German, although my mother was used to do it in Trieste.
 
 ## Procedure
 
-0. Prepare a cake pan by brushing melted butter on its walls and flouring them.<img src="./images/flouredPan.jpg" height=400 alt="Floured pan">
-1. Work butter and sugar together reducing them to a cream.
+0. Prepare a cake pan by brushing melted butter on its walls and flouring them.
+<img src="./images/flouredPan.jpg" height=200 alt="Floured pan">
+2. Work butter and sugar together reducing them to a cream.
 3. Add one egg at the time and mix it in.
 4. Add salt and flower, a bit at the time, and 50ml of milk to keep the batter fluid.
 5. Pour 2/3 of the batter in the pan.
