@@ -17,7 +17,7 @@ This cake is German, although my mother was used to do it in Trieste.
 
 0. Prepare a cake pan by brushing melted butter on its walls and flouring them.
 <p class="aligncenter">
-<img src="https://github.com/darioflute/gastronomic/tree/main/desserts/images/flouredPan.png" height=400 alt="Floured pan" />
+<img src="https://github.com/darioflute/gastronomic/desserts/images/flouredPan.png" height=400 alt="Floured pan" />
 </p>
 
 1. Work butter and sugar together reducing them to a cream.
