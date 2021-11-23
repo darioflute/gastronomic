@@ -16,7 +16,7 @@ This cake is German, although my mother was used to do it in Trieste.
 ## Procedure
 
 0. Prepare a cake pan by brushing melted butter on its walls and flouring them.
-![Floured pan](./images/flouredPan.png "Floured pan").
+![Floured pan](/assets/images/flouredPan.png "Floured pan").
 1. Work butter and sugar together reducing them to a cream.
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg){}
 3. Add one egg at the time and mix it in.
