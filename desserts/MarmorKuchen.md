@@ -1,6 +1,6 @@
 # Marmor Kuchen
 
-This cake is German, although my mother was used to do it in Trieste.
+This cake is German, but my mother was used to do it in Trieste.
 
 ## Ingredients
 
