@@ -10,7 +10,7 @@ This cake is German, but my mother was used to do it in Trieste.
 - 5      eggs
 - 300 g  flour
 - 3 teaspoons backing powder
-- 25  g  Cocoa
+- 25  g  Cocoa powder
 - 75  ml Milk
 
 ## Procedure
